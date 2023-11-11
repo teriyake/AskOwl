@@ -2,7 +2,9 @@
 A submission repository for Tri-Co Hackathon 2023. 
 ## AskOwl
 
-*Your name here! & best way to contact you all during the Hack*
+Cecilia Zhang
+
+ceciliazhang0923@gmail.com / czhang6@brynmawr.edu
 
 ## Team Members
 
