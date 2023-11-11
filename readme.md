@@ -15,16 +15,7 @@ AskOwl is a chatbot that provides quick and accurate info, making more pleasant 
 
 ## Prototype Summary
 
-Prototype: A web app with a front end that allows users to inquire about the next available blue bus given a desired time to leave and the target destination. Currently, bus schedules from Mon to Thurs are available for inquiry.
-Future Work: 
-
-1. Add more info (weekend bus schedules, menu, etc.).
-
-2. Conduct user input analysis with NLP to allow users to enter text prompts instead of pressing buttons.
-
-3. Interactive user interface by connecting to ChatGPT API.
-
-4. Expand to Tri-Co Info (or beyond!). 
+Prototype: A web app with a front end that allows users to inquire about the next available blue bus given a desired time to leave and the target destination. Currently, bus schedules from Mon to Thurs are available for inquiry. Text-to-speech features are also enabled for visually impaired users. 
 
 ### Instructions for Running the Code
 `npm i` to install the dependencies  
@@ -41,8 +32,15 @@ Future Work:
 
 ## Next Steps
 
-*What do you need to do next to turn this prototype into a working solution?*
+Future Work: 
 
+1. Add more info (weekend bus schedules, menu, etc.).
+
+2. Conduct user input analysis with NLP to allow users to enter text prompts instead of pressing buttons.
+
+3. Interactive user interface by connecting to ChatGPT API.
+
+4. Expand to Tri-Co Info (or beyond!). 
 ## License
 
 *This repository includes an [unlicense](http://unlicense.org/) statement though you may want [to choose a different license](https://choosealicense.com/).*
