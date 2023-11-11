@@ -17,6 +17,11 @@ AskOwl is a chatbot that provides quick and accurate info, making more pleasant 
 
 *Describe the basic functionality of your prototype. What are the features you were able to implement? What features would you like to implement?*
 
+### Instructions for Running the Code
+`npm i` to install the dependencies  
+`npm run dev-js` for testing & development
+`npm run build` for production
+
 ## Live URLs
 
 [https://askowl-ui.vercel.app/](https://askowl-ui.vercel.app/)
