@@ -13,7 +13,7 @@
 
 ## Project Description
 
-*A clear statement of the challenges/issues/problems/gaps your project engages as well as a brief, high-level description of how your project engage the areas you've identified. What is the value of your approach? Who are the intended users?*
+Create a chatbot that provides quick and accurate info, making more pleasant the experience of navigating the oftentimes inaccessible school websites. 
 
 ## Protoype Summary
 
@@ -25,7 +25,7 @@
 
 ## Presentation
 
-*List any links to your presentation or any related visuals you want to share.*
+[Pitch Deck](https://docs.google.com/presentation/d/1KowvbUCC72Q3qu1WamHBEOv33AHeYLB5WT4vX_s82h0/edit?usp=sharing)
 
 ## Next Steps
 
