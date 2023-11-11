@@ -13,9 +13,18 @@ A submission repository for Tri-Co Hackathon 2023.
 
 AskOwl is a chatbot that provides quick and accurate info, making more pleasant the experience of navigating the oftentimes inaccessible school websites. 
 
-## Protoype Summary
+## Prototype Summary
 
-*Describe the basic functionality of your prototype. What are the features you were able to implement? What features would you like to implement?*
+Prototype: A web app with a front end that allows users to inquire about the next available blue bus given a desired time to leave and the target destination. Currently, bus schedules from Mon to Thurs are available for inquiry.
+Future Work: 
+
+1. Add more info (weekend bus schedules, menu, etc.).
+
+2. Conduct user input analysis with NLP to allow users to enter text prompts instead of pressing buttons.
+
+3. Interactive user interface by connecting to ChatGPT API.
+
+4. Expand to Tri-Co Info (or beyond!). 
 
 ### Instructions for Running the Code
 `npm i` to install the dependencies  
