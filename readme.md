@@ -13,7 +13,7 @@
 
 ## Project Description
 
-Create a chatbot that provides quick and accurate info, making more pleasant the experience of navigating the oftentimes inaccessible school websites. 
+AskOwl is a chatbot that provides quick and accurate info, making more pleasant the experience of navigating the oftentimes inaccessible school websites. 
 
 ## Protoype Summary
 
