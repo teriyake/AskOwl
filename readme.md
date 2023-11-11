@@ -19,7 +19,7 @@ AskOwl is a chatbot that provides quick and accurate info, making more pleasant 
 
 ### Instructions for Running the Code
 `npm i` to install the dependencies  
-`npm run dev-js` for testing & development
+`npm run dev-js` for testing & development  
 `npm run build` for production
 
 ## Live URLs
