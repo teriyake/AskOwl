@@ -1,7 +1,5 @@
 # :zap: :computer: :zap: Tri-Co Hackathon 2023 :zap: :computer: :zap:
-
-*This is a sample submission repository for Tri-Co Hackathon 2023. You can use this repo as a template for your repository, or create your own repo and add this README.md file with the following information about your team*
-
+A submission repository for Tri-Co Hackathon 2023. 
 ## AskOwl
 
 *Your name here! & best way to contact you all during the Hack*
